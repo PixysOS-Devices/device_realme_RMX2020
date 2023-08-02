@@ -1,0 +1,27 @@
+[
+  {
+    "remote": "pixys-devices",
+    "repository": "kernel_realme_RMX2020",
+    "target_path": "kernel/realme/RMX2020",
+    "branch": "thirteen"
+  },
+  { 
+    "remote": "pixys-devices",
+    "repository": "vendor_realme_RMX2020",
+    "target_path": "vendor/realme/RMX2020",
+    "branch": "thirteen"
+  },
+  { 
+    "remote": "pixys-devices",
+    "repository": "vendor_realme_RMX2020-ims",
+    "target_path": "vendor/realme/RMX2020-ims",
+    "branch": "thirteen"
+  },
+  {
+    "remote": "github",
+    "repository": "kdrag0n/proton-clang.git",
+    "target_path": "prebuilts/clang/host/linux-x86/proton-clang",
+    "branch": "master",
+    "clone-depth": "1"
+  }
+]
